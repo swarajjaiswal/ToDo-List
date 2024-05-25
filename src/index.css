@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.line-through {
+    display: flex;
+    text-decoration: line-through;
+    text-decoration-thickness: 1px;
+    text-decoration-color: red; 
+  }
